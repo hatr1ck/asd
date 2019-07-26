@@ -1,0 +1,123 @@
+.alert {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    display: inline-block;
+    position: relative;
+}
+
+.signUp {
+    width: 250px;
+    padding: 15px;
+    display: inline-block;
+    background-color: #3AB486;
+    cursor: pointer;
+}
+
+.butn {
+    cursor: pointer;
+    padding: 14px;
+    opacity: .7;
+    display: inline-block;
+    width: 250px;
+    background-color: #1F1F22;
+}
+
+.signIn {
+    width: 250px;
+    padding: 15px;
+    display: inline-block;
+    background-color: #3AB486;
+    cursor: pointer;
+}
+
+.butn:hover {
+    background-color: #3AB486;
+    opacity: .6;
+}
+
+.signIn:hover {
+    opacity: 0.8;
+}
+
+.signUp:hover {
+    opacity: 0.8;
+}
+
+.goGrey {
+    border-radius: 1%;
+    padding: 30px;
+    background-color: #2C353F;
+    min-height: 500px;
+    max-width: 600px;
+    display: inline-block;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.5);
+}
+
+.ins {
+    text-align: center;
+}
+
+.reg {
+    text-align: center;
+}
+
+.Registered {
+    margin: 1%;
+    width: 500px;
+    display: inline-block;
+}
+
+.googl {
+    display: inline-block;
+    background-color: #D34748;
+    font-size: 20px;
+    padding: 15px;
+    height: 18px;
+    top: 2px;
+    position: relative;
+    width: 250px;
+}
+
+.pica {
+    left: 5px;
+    top: 5px;
+    position: absolute;
+}
+
+.googl:hover {
+    opacity: 0.8;
+}
+
+.googl,
+.googl:hover,
+.googl:focus,
+.googl:active {
+    text-decoration: none;
+    color: white;
+}
+
+.erar {
+    color: #CA3F4E;
+    font-size: 20px;
+}
+
+.list2 {
+    width: 500px;
+    padding: 5px;
+    border-radius: 5%;
+    color: white;
+    text-decoration-color: white;
+    border: .5px solid black;
+    background-color: #1a4c29;
+    font-size: 25px;
+}
+.prettyprint {
+  z-index: 999;
+  position: absolute;
+  background-color: black;
+  width: 500px;
+}

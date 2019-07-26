@@ -1,0 +1,289 @@
+.bacg{
+  background: #002d4a;
+}
+.svg{
+  min-width:1400px;
+}
+  .st53{fill:#230B03;}
+  .st0{fill:#7C4D25;}
+  .st1{fill:#002d4a;}
+  .st2{fill:url(#SVGID_2_);stroke:#000000;stroke-miterlimit:10;}
+  .st3{fill:#40A3AD;stroke:#000000;stroke-miterlimit:10;}
+  .st4{fill:#5EC1D1;stroke:#000000;stroke-miterlimit:10;}
+  .st5{fill:#4F3DA5;stroke:#000000;stroke-miterlimit:10;}
+  .st6{fill:#FFFFFF;}
+  .st7{fill:#8079B2;stroke:#000000;stroke-miterlimit:10;}
+  .st8{fill:url(#SVGID_3_);stroke:#000000;stroke-miterlimit:10;}
+  .st9{fill:#4EC64E;stroke:#000000;stroke-miterlimit:10;}
+  .st10{fill:#45A39F;}
+  .st11{fill:#427696;}
+  .st12{fill:#178747;}
+  .st13{fill:#046029;}
+  .st14{fill:#89867C;}
+  .st15{fill:#6D6B64;}
+  .st16{fill:#FFAE0B;}
+  .st17{fill:#FFD00D;}
+  .st18{fill:#7A8487;}
+  .st19{fill:#596568;}
+  .st20{fill:#FF860D;}
+  .st21{fill:#E56A0E;}
+  .st22{fill:#77ACBF;}
+  .st23{fill:#E8D918;}
+  .st24{fill:#539AAD;}
+  .st25{fill:#B0EBE1;}
+  .st26{fill:#80CDD6;}
+  .st27{fill:#88C9DB;}
+  .st28{fill:#56A0BF;}
+  .st29{fill:#393B85;}
+  .st30{fill:#E5741A;}
+  .st31{fill:#FE8821;}
+  .st32{fill:#FEA832;}
+  .st33{fill:#3C3A41;}
+  .st34{fill:#E5E5E5;}
+  .st35{fill:#D9D9D9;}
+  .st36{fill:#F4ED9D;}
+  .st37{fill:none;}
+  .st38{fill:#297F29;stroke:#000000;stroke-miterlimit:10;}
+  .st39{fill:#2E932E;stroke:#000000;stroke-miterlimit:10;}
+  .st40{fill:#788787;}
+  .st41{fill:#9E6226;}
+  .st42{fill:#AF7643;}
+  .st43{fill:#0C91C4;}
+  .st44{fill:#22B3E0;}
+  .st45{fill:#E00E0E;}
+  .st46{fill:#BF1111;}
+  .st47{fill:#CC9E44;stroke:#000000;stroke-miterlimit:10;}
+  .st48{fill:#184929;stroke:#020202;stroke-miterlimit:10;}
+  .st49{fill:#184929;stroke:#070707;stroke-miterlimit:10;}
+  .st50{fill:#184929;stroke:#050505;stroke-miterlimit:10;}
+  .st51{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+  .st52{fill:#FFFFFF;stroke:#FCFCFC;stroke-miterlimit:10;}
+  .st54{fill:#EEA120;}
+  .st55{fill:#5D312D;}
+  .st56{fill:#DE3226;}
+  .st57{fill:#80CDE8;}
+  .st58{fill:#FDEC7E;}
+  .st59{fill:#63AE45;}
+  .st60{fill:none;stroke:#DD1F26;stroke-width:0.25;}
+  .st61{fill:none;stroke:#EEA120;stroke-width:0.25;}
+  .st62{fill:#E35050;}
+    .bubble {
+    animation: kek 2s infinite;
+  }
+  @keyframes kek {
+    0%{
+      transform: translate(0%, -0%);
+    }
+    20%{
+      transform: translate(1%, -1%);
+    }
+    40%{
+      transform: translate(0%, -2%);
+    }
+    60%{
+      transform: translate(1%, -3%);
+    }
+    80%{
+      opacity: 1;
+      transform: translate(0%, -4%);
+    }
+    100%{
+      transform: translate(1%, -5%);
+      opacity: 0;
+    }
+  }
+   .bubble1 {
+    animation: keks 1.5s infinite;
+  }
+  @keyframes keks {
+    0%{
+      transform: translate(0%, -0%);
+    }
+    20%{
+      transform: translate(1%, -1%);
+    }
+    40%{
+      transform: translate(0%, -2%);
+    }
+    60%{
+      transform: translate(1%, -3%);
+    }
+    80%{
+      opacity: 1;
+      transform: translate(0%, -4%);
+    }
+    100%{
+      transform: translate(1%, -5%);
+      opacity: 0;
+    }
+  }
+     .bubble3 {
+    animation: kekss 3s infinite;
+  }
+  @keyframes kekss {
+    0%{
+      transform: translate(0%, -0%);
+    }
+    20%{
+      transform: translate(1%, -1%);
+    }
+    40%{
+      transform: translate(0%, -2%);
+    }
+    60%{
+      transform: translate(1%, -3%);
+    }
+    80%{
+      opacity: 1;
+      transform: translate(0%, -4%);
+    }
+    100%{
+      transform: translate(1%, -5%);
+      opacity: 0;
+    }
+  }
+    .bubble2 {
+    animation: kekd 2.5s infinite;
+  }
+  @keyframes kekd {
+    0%{
+      transform: translate(0%, -0%);
+    }
+    20%{
+      transform: translate(1%, -1%);
+    }
+    40%{
+      transform: translate(0%, -2%);
+    }
+    60%{
+      transform: translate(1%, -3%);
+    }
+    80%{
+      opacity: 1;
+      transform: translate(0%, -4%);
+    }
+    100%{
+      transform: translate(1%, -5%);
+      opacity: 0;
+    }
+  }
+
+
+  .submarine {
+    animation: swim 50s infinite;
+  }
+  @keyframes swim{
+    0%{
+      transform: translateX(-50%);
+    }
+    100%{
+      transform: translateX(100%);
+    }
+  }
+  .fishy {
+        animation: what 55s infinite;
+  }
+
+  @keyframes what{
+    0%{
+      transform: translateX(100%);
+    }
+    100%{
+      transform: translateX(-100%);
+    }
+  }
+  .fishy1 {
+        animation: what 35s infinite;
+  }
+
+  @keyframes what{
+    0%{
+      transform: translateX(100%);
+    }
+    100%{
+      transform: translateX(-100%);
+    }
+  }
+
+  .fishy2 {
+    animation: swim1 30s infinite;
+  }
+  @keyframes swim1{
+    0%{
+      transform: translateX(-50%);
+    }
+    100%{
+      transform: translateX(120%);
+    }
+  }
+ .sun {
+    animation: rot 40s infinite linear;
+    transform-origin: 92% 4%;
+  }
+  @keyframes rot{
+    0%{
+      transform: rotate(0deg);
+    }
+    100%{
+      transform: rotate(360deg);
+    }
+  }
+  .ship{
+    animation: swm 90s infinite linear;
+  }
+    @keyframes swm{
+    0%{
+      transform: translateX(-15%);
+    }
+    100%{
+      transform: translateX(100%);
+    }
+  }
+    .cloud{
+    animation: swms 100s infinite linear;
+    opacity: .6;
+  }
+    @keyframes swms{
+    0%{
+      transform: translateX(-10%);
+    }
+    100%{
+      transform: translateX(100%);
+    }
+  }
+      .cloud1{
+    animation: swmss 140s infinite linear;
+    opacity: .6;
+  }
+    @keyframes swmss{
+    0%{
+      transform: translateX(35%);
+    }
+    100%{
+      transform: translateX(100%);
+    }
+  }
+      .cloud2{
+    animation: swms 80s infinite linear;
+    opacity: .6;
+  }
+    @keyframes swms{
+    0%{
+      transform: translateX(-20%);
+    }
+    100%{
+      transform: translateX(100%);
+    }
+  }
+  .svg{
+    position: relative;
+
+  }
+   #root{
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+  }
+  *{
+    margin: 0;
+  }
